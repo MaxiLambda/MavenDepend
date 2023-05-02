@@ -1,0 +1,15 @@
+{
+  "simple": [
+    {
+      "name": "org.example.App.external",
+      "prefix": "com.test",
+      "suffix": "lolz"
+    }
+  ],
+  "pattern": [
+    {
+      "name": "org.example.App.external2",
+      "pattern": "%1$s.%1$s.%4$s%2$s"
+    }
+  ]
+}
